@@ -1,0 +1,61 @@
+/* ABOUT PAGE CSS */
+
+.about-page {
+  background: #fff;
+}
+
+.about-title {
+  font-size: 48px;
+  font-weight: 700;
+  color: #E30613;
+}
+
+.about-subtitle {
+  font-size: 20px;
+  color: #555;
+}
+
+.about-page p {
+  font-size: 17px;
+  line-height: 1.9;
+  color: #444;
+}
+
+.mission-section {
+  background: #FFD400;
+}
+
+.about-card {
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+  transition: 0.3s;
+}
+
+.about-card:hover {
+  transform: translateY(-8px);
+}
+
+.about-card h4 {
+  color: #E30613;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+.about-card p {
+  font-size: 15px;
+}
+
+/* MOBILE RESPONSIVE */
+
+@media(max-width:768px){
+
+  .about-title{
+    font-size: 34px;
+  }
+
+  .about-subtitle{
+    font-size: 17px;
+  }
+
+}
