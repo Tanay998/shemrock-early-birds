@@ -1,6 +1,7 @@
 // src/pages/About.jsx
 
 import React from "react";
+import studentImg from "../assets/images/student.jpeg";
 
 function About() {
   return (
@@ -24,7 +25,7 @@ function About() {
           {/* IMAGE */}
           <div className="col-lg-6 mb-4">
             <img
-              src=".././assets/images/student.jpeg"
+              src="{studentImg}"
               alt="Shemrock Early Birds Ramnagar"
               className="img-fluid rounded shadow"
             />
