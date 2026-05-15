@@ -24,7 +24,7 @@ function About() {
           {/* IMAGE */}
           <div className="col-lg-6 mb-4">
             <img
-              src="/images/about-school.jpg"
+              src="/images/student.jpg"
               alt="Shemrock Early Birds Ramnagar"
               className="img-fluid rounded shadow"
             />
