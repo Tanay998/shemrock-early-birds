@@ -1,7 +1,7 @@
 // src/pages/About.jsx
 
 import React from "react";
-import studentImg from "../assets/images/student.jpeg";
+import studentImg from "./assets/images/student.jpeg";
 
 function About() {
   return (
